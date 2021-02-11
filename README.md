@@ -4,13 +4,15 @@ Practice Repository
 I'm a student currently attending the Univeristy of Iowa.
 My major at the moment is business analytics.
 
-# ***Project Title***
+# **Assignment**
+Below is my own style of how I would form my own sections/headings
+## ***Project Title***
 This is the name of the project
 
-## **Description**
+### **Description**
 This is where the description of the project would go
 
-# **How to Run Program**
+## **How to Run Program**
 1. First step
 2. Second step
 3. Third step
@@ -20,8 +22,8 @@ This is where the description of the project would go
 - File 2
 - File 3
 
-# **Additional Documentation**
+### **Additional Documentation**
 *This is where additional documentation regarding the project would go*
 
-## ***Versioning***
+### ***Versioning***
 *This is where the versioning is put when you make changes*
